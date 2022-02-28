@@ -1,0 +1,1 @@
+{"name":"HPTunic","version":"1.0.4","description":"Change tunic color based on hp!","main":"HPTunic.js","author":"Drahsid","credits":"","license":"MIT","core":"OcarinaofTime","dry":{"extends":"./ModLoader64/package-dry.json"}}

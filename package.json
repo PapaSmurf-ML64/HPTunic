@@ -1,0 +1,14 @@
+{
+  "name": "RainbowEverything",
+  "version": "1.0.8",
+  "description": "Makes everything into a synchronized rainbow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "PapaSmurf",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
